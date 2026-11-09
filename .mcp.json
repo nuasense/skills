@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "nuasense": {
+      "type": "http",
+      "url": "https://mcp.nuasense.com/mcp"
+    }
+  }
+}

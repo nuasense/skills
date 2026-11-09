@@ -1,0 +1,10 @@
+{
+  "name": "nuasense",
+  "version": "0.1.0",
+  "description": "East African farm and market data for agents: live weather stations and soil probes with spray windows, disease risk and irrigation need, plus county prices, satellite demand, news signals and food security for Kenya, Tanzania, Uganda and Rwanda.",
+  "mcpServers": {
+    "nuasense": {
+      "httpUrl": "https://mcp.nuasense.com/mcp"
+    }
+  }
+}

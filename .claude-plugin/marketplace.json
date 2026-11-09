@@ -1,0 +1,18 @@
+{
+  "name": "nuasense",
+  "owner": { "name": "NuaSense", "email": "info@nuasense.com", "url": "https://nuasense.com" },
+  "metadata": {
+    "description": "NuaSense: East African farm and market data for software and agents.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "nuasense",
+      "source": "./",
+      "description": "The NuaSense skill and the hosted MCP server: live stations and soil probes with the agronomy computed from them, county prices, satellite demand, news signals and food security for Kenya, Tanzania, Uganda and Rwanda.",
+      "version": "0.1.0",
+      "category": "data",
+      "tags": ["agriculture", "weather", "kenya", "east-africa", "market-data"]
+    }
+  ]
+}

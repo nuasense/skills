@@ -1,0 +1,10 @@
+{
+  "name": "nuasense",
+  "version": "0.1.0",
+  "description": "East African farm and market data for agents: the NuaSense skill plus the hosted MCP server (live stations, agronomy, county prices, satellite demand, news signals).",
+  "author": { "name": "NuaSense", "email": "info@nuasense.com", "url": "https://nuasense.com" },
+  "homepage": "https://api.nuasense.com/index.md",
+  "repository": "https://github.com/nuasense/skills",
+  "license": "MIT",
+  "keywords": ["agriculture", "weather-station", "kenya", "east-africa", "market-data", "mcp"]
+}
